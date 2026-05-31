@@ -1,0 +1,10 @@
+->To accept user input in java, we'll use something called a "Scanner".
+->A Scanner is a class that allows us to accept user input in Java.
+->To use Scanner, we need to import it from a certain package called "Utilities".
+----------import java.util.Scanner;
+=================================================================================
+->To read data use the following built in methods:
+String---> nextLine();
+Int------> nextInt();
+Double---> nextDouble();
+Boolean--> nextBoolean();

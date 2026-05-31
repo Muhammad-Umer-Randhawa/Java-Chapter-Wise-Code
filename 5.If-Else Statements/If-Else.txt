@@ -1,0 +1,1 @@
+If statement -> performs a block of code if a condition is true.

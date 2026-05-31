@@ -1,0 +1,16 @@
+--> printf() is a method used in java to format output
+>It is an alternative to "print()" and "println()".
+>It's syntax is: %[flags][width][.precision][specifier-character]
+                     |      |       |                |
+                     |      |       |                ↓
+                     |      |       |                a letter to specify the data type
+                     |      |       ↓
+                     |      |      how many digits do we want to specify after the decimal point
+                     |      |       just add a + or - sign before the decimal to assign positive or negative numbers
+                     |      ↓
+                     |      width specifies the width[padding] of the number or the variable.
+                     |      0 = zero padding[after zero add how much padding you want, ex: 4 or 5 digits padding], number = right justified padding, negative number = left justified padding.
+                     ↓      
+                     A character like a comma to seperate the variables or specifiers after the % sign. It is at any thousands place.           
+>Adding a parenthesis[left parenthesis] after % symbol indicates a negative number enclosed in ().
+>Adding a space after the % symbol, any positive numbers are preceded by a space. 

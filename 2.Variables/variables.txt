@@ -1,0 +1,20 @@
+Variables---> data types.
+---------------------------------------------------------------------------
+Two types:
+--------------
+1.Primitive: simple value stored directly in memory(stack).
+int, double, char, bool e.t.c.
+--------------
+2.Reference: Memory address(stack) that points to the (heap)
+string, array, object
+----------------------------------------------------------------------------
+Steps to creating a variable:
+--------------
+1.Decleration: Declaring a variable, data type + variable name.
+2.Asignment: Giving it a value.
+--------------
+int x = 10;
+----------------------------------------------------------------------------
+"camelCase" naming convention: If a variable name takes up two letters, the first letter of the
+first word should be lower case and the word afterward should have its letter uppercase.
+example: bool isStudent = true;

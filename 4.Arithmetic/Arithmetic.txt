@@ -1,0 +1,7 @@
+There is an order of operations with an acronym called "P-E-M-D-A-S":
+---> P = Parenthesis
+---> E = Exponents
+---> M = Multiplication
+---> D = Division
+---> A = Addition
+---> S = Subtraction
